@@ -11,7 +11,7 @@
 
 #### Installing the FishingAddons mod
 
-1. Download the latest mod [release](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/releases). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
+1. Download the latest mod [release]([https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/releases](https://github.com/Hat0l/Fishing-addons/releases/tag/v1.29)). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
 2. Add the FishingAddons mod:
    - If you have java installed, double click the file, click `install`
    - If not, press the windows key + R; type `%appdata%`; click on the folder called `.minecraft`; click on the folder called `mods` and drag the mods file in here.
