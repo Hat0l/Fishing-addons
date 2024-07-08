@@ -8,7 +8,7 @@ Once you click on the installer you'd like to download, a window will pop up. Do
 Open the installer, select install client, and click install
 When forge is installed, open the Minecraft launcher, go under the installations tab, click new installation, select the version release 1.8.9-forge1.8.9-11.15.1.xxxx (it will usually be all the way towards the bottom).
 Once you are done, run this new installation that you just created. Once it reaches the title screen, wait about 5 seconds and close it.
-Installing the NotEnoughUpdates mod
+Installing the Fishing addons mod
 Download the latest mod release. If it says this file may harm your computer, click allow anyways as all java files will be flagged by Chrome.
 Add the Fishing addons mod:
 If you have java installed, double click the file, click install
